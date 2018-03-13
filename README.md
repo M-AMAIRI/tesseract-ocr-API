@@ -22,4 +22,4 @@ use _CRT_SECURE_NO_WARNINGS
 And you should download Data Files for Version 3.04/3.05 from this link : https://github.com/tesseract-ocr/tesseract/wiki/Data-Files#data-files-for-version-400
 
 
-
+create a tessdata folder 
