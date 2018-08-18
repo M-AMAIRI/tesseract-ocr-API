@@ -1,4 +1,4 @@
-# tesseract-ocr-API
+## tesseract ocr 
 in this tutorial you will learn how to apply Optical Character Recognition (OCR) to images using Tesseract
 
 download Libs and header files from this link : https://drive.google.com/file/d/0B52jOwoWvqGyX0U3THFHZEJkMlk/edit
